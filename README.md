@@ -1,2 +1,2 @@
 # strongMind
-strongMind take home assignment
+Just run in the terminal, no requirements needed 
